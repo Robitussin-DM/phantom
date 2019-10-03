@@ -57,7 +57,7 @@ const (
 	CmdCFilter      = "cfilter"
 	CmdCFHeaders    = "cfheaders"
 	CmdCFCheckpt    = "cfcheckpt"
-	CmdMNP			= "mnp"
+	CmdMNP			= "dseep"
 	CmdMNB			= "mnb"
 	CmdDESG			= "dseg"
 	CmdGovObj		= "govobj"
